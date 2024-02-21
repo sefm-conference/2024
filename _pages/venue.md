@@ -3,6 +3,7 @@ layout: page_plain
 title: Venue
 permalink: /venue/
 order: 8
+published: false
 ---
 SEFM 2024 will take place at the University of Aveiro (UA) in Portugal.
 

@@ -3,21 +3,24 @@ layout: page_plain
 title: Call for Papers
 subtitle:
 permalink: /callforpapers/
-order: 5
-published: false
+order: 2
+# published: false
 ---
 The 21st edition of the International Conference on Software Engineering and
-Formal Methods will be held between *8 and 10 November 2024*, with workshops taking place on 6 and 7 November 2024.
+Formal Methods will be held between *6 and 8 November 2024*, with workshops taking place on 4 and 5 November 2024.
 
 ## Important dates
-- Abstract submission: 2 June 2024 (AoE)
-- Paper submission: 9 June 2024 (AoE)
-- Artifact submission (tool papers): 9 June 2024 (AoE)
-- Artifact submission (regular papers): 16 June 2024 (AoE)
-- Author notification: 18 August 2024
-- Camera-ready submission: 10 September 2024
+- Abstract submission: 7 June 2024 (AoE)
+- Paper submission: 14 June 2024 (AoE)
+- Author notification: 15 August 2024
 - Workshops: 4-5 November 2024
 - Conference: 6-8 November 2024
+
+<!-- 
+- Camera-ready submission: 10 September 2024
+- Artifact submission (tool papers): 9 June 2024 (AoE)
+- Artifact submission (regular papers): 16 June 2024 (AoE)
+ -->
 
 ## Overview and Scope
 
@@ -76,13 +79,17 @@ All submissions must be original, unpublished, and not submitted concurrently fo
 
 Papers can be submitted through Easychair: [https://easychair.org/conferences/?conf=sefm2024](https://easychair.org/conferences/?conf=sefm2024).
 
+<!-- 
 ## Artifact Evaluation
 
-This edition of SEFM introduces an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is **optional for regular papers** and **mandatory for tool papers**. The artifacts will be judged by the Artifact Evaluation Committee (AEC). More details can be found on the [artifact page]({{ site.baseurl }}{% link _pages/artifacts.md %}).
+This edition of SEFM introduces an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is **optional for regular papers** and **mandatory for tool papers**. The artifacts will be judged by the Artifact Evaluation Committee (AEC). More details can be found on the [artifact page]({{ site.baseurl }}{~~~~% link _pages/artifacts.md %}).
+ -->
 
+<!--
 ## Publication
 
 All accepted papers will appear in the proceedings of the conference that will
 be published as a volume in Springer's LNCS series. 
 
 The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to special issues of the journal [Software and Systems Modeling](https://www.springer.com/journal/10270) (SoSyM).
+ -->
