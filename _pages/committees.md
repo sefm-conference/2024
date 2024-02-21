@@ -5,8 +5,8 @@ permalink: /comittees/
 order: 4
 ---
 ## Programme Committee Chairs
-[Alexandre Madeira](...), University of Aveiro, Portugal  
-
+[Alexandre Madeira](https://sweet.ua.pt/madeira/), University of Aveiro, Portugal  
+[Alexander Knapp](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtsse/staff/), University of Augsburg, Germany
 
 ## Programme Committee
 
