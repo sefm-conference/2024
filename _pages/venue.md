@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_plain
 title: Venue
 permalink: /venue/
 order: 8
