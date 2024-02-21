@@ -1,2 +1,2 @@
-# 2024
-Website of SEFM 2024
+# sefm-conference.github.io/2024
+Website of the SEFM 2024 Conference

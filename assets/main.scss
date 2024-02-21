@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.page-content > p > img {
+  max-width: 50%;
+}
+@include media-query($on-palm) {
+  .page-content > p > img {
+    max-width: 100%;
+  }
+}
+
+.div-float-right {
+  float: right;
+  padding-bottom: 2em;
+  max-width: 50%;
+}
+
+@include media-query($on-palm) {
+  .div-float-right {
+    max-width: 100%;
+  }
+}
+
+table {
+  width: unset;
+}
+.site-nav .page-link:not(:last-child) {
+  margin-right: 24px;
+}
