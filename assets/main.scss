@@ -10,14 +10,14 @@
 
 .header-title {
   float: right;
-  top: 1.5em;
-  right: 1em;
+  top: 1.0em;
+  right: 1.0em;
   margin-bottom: -2em;
   padding: 6pt 14pt;
   background-color: color(srgb 0.0091 0.441 0.61/0.78);
   color: white;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 3em;
   position: relative;
 }
 
@@ -32,6 +32,28 @@
   font-weight: bold;
   font-size: 1.4em;
   width: fit-content;
+}
+.header-title a{
+  color: white;
+}
+.header-title  a:hover {
+  color: rgb(149, 240, 255);
+}
+
+@include media-query($on-palm) {
+  .header-title {
+    top: 0.2em;
+    right: 2.0em;
+    font-size: 2em;
+    padding: 2pt 14pt;
+  }
+  .header-wrapper{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .site-title {
+    display: none;
+  }
 }
 
 @include media-query($on-palm) {
@@ -55,6 +77,6 @@
 table {
   width: unset;
 }
-.site-nav .page-link:not(:last-child) {
+/*.site-nav .page-link:not(:last-child) {
   margin-right: 24px;
-}
+}*/
