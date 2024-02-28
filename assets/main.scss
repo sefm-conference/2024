@@ -7,6 +7,31 @@
 .page-content > p > img {
   max-width: 50%;
 }
+
+.header-title {
+  position: absolute;
+  top: 1.5em;
+  right: 1em;
+  background-color: color(srgb 0.0091 0.441 0.61 / 0.78);
+  padding: 3pt 6pt;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.header-subtitle {
+  position: relative;
+  top: -1.5em;
+  left: 2em;
+  background-color: color(srgb 0.56 0.1512 0.2096 / 0.69);
+  padding: 3pt 6pt;
+  margin: -1em;
+  color: white;
+  font-weight: bold;
+  font-size: 1.4em;
+  width: fit-content;
+}
+
 @include media-query($on-palm) {
   .page-content > p > img {
     max-width: 100%;

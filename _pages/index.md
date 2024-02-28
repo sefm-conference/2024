@@ -21,7 +21,14 @@ integration within practical software engineering methods and tools.
 - Camera-ready submission: 10 September 2024
 - Workshops: 4-5 November 2024
 - Conference: 6-8 November 2024
+-->
 
+## Previous editions
+{: .secondH}
+
+Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io).
+
+<!--
 ## Sponsors
 [![NWO logo]({{ site.baseurl }}{% link assets/nwo.jpg %})](https://nwo.nl/)
 [![EAPLS logo]({{ site.baseurl }}{% link assets/EAPLS_logo.jpg %})](https://eapls.org/)
