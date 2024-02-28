@@ -8,15 +8,30 @@
   max-width: 50%;
 }
 
-.header-title {
-  position: absolute;
+.header-title-in {
+  position: relative;
   top: 1.5em;
   right: 1em;
+  margin: -1em;
   background-color: color(srgb 0.0091 0.441 0.61 / 0.78);
   padding: 3pt 6pt;
   color: white;
   font-weight: bold;
   font-size: 2em;
+  width: fit-content;
+}
+
+.header-title {
+  float: right;
+  top: 1.5em;
+  right: 1em;
+  margin-bottom: -2em;
+  padding: 6pt 14pt;
+  background-color: color(srgb 0.0091 0.441 0.61/0.78);
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  position: relative;
 }
 
 .header-subtitle {
