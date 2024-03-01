@@ -74,3 +74,6 @@ Tiago Soares, NOVA School of Science and Technology, Portugal
 ## Website
 [Thomas Neele](https://tneele.com/), Eindhoven University of Technology, The Netherlands
  -->
+
+<!--  Edit the content of this page [here](https://github.com/sefm-conference/2024/blob/main/_pages/committees.md).
+{: .editNote} -->
