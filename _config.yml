@@ -20,6 +20,7 @@
 
 include: [_pages]
 title: SEFM 2024
+subtitle: 22nd International Conference on Software Engineering and Formal Methods
 date: 4-8 November 2024
 baseurl: "/2024" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
