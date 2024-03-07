@@ -19,9 +19,15 @@ Paolo Milazzo (University of Pisa, Italy).
 
 <p>&nbsp;</p>
 
-### More information
+## Workshop Chair
 
-Please contact the workshop chair, [José Proença](https://jose.proenca.org), for any questions, or if you would like to have your workshop co-located with SEFM.
+[José Proença](https://jose.proenca.org), University of Porto, Portugal
+
+
+## Contact
+
+For further information, or if you would like to have your workshop co-located with SEFM, please send an email to the [workshop chair](mailto:jose.proenca@fc.up.pt).
+
 
 <!-- - [OpenCERT 2024](https://opencert.github.io/), **6 November**: *11th International Workshop on Open Community approaches to Education, Research and Technology*  
 organised by Antonio Cerone (Nazarbayev University, Kazachstan) and Marco Temperini (Sapienza Università di Roma, Italy).
