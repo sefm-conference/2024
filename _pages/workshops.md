@@ -3,12 +3,25 @@ layout: page_plain
 title: Workshops
 permalink: /workshops/
 order: 7
-published: false
+published: true
 ---
 
-TBD
+The following workshops will be co-located with SEFM 2024 on 4-5 November of 2024 (not yet finalised). 
 
-<!-- The following workshops will be co-located with SEFM 2024 on 4 and 5 November 2024. -->
+
+- [DataMod 2024](https://datamod2024.github.io/), **4-5 November**: *12th International Symposium - From Data to Models and Back*  
+organised by
+Ricardo M. Czekster (Aston University, United Kingdom) and
+Paolo Milazzo (University of Pisa, Italy).
+
+- ...
+
+
+<p>&nbsp;</p>
+
+### More information
+
+Please contact the workshop chair, [José Proença](https://jose.proenca.org), for any questions, or if you would like to have your workshop co-located with SEFM.
 
 <!-- - [OpenCERT 2024](https://opencert.github.io/), **6 November**: *11th International Workshop on Open Community approaches to Education, Research and Technology*  
 organised by Antonio Cerone (Nazarbayev University, Kazachstan) and Marco Temperini (Sapienza Università di Roma, Italy).

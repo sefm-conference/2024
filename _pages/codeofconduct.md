@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: page_plain
 title: Code of Conduct
 permalink: /codeofconduct/
 order: 7
-published: false
+published: true
+hide: true
 ---
 
 SEFM is committed to inclusive event experiences, respectful of all participants, and free of discrimination, harassment, bullying, or retaliation. An inclusive and respectful atmosphere is vital to free expression and the open exchange of ideas, serving the main purpose of the events.
@@ -42,6 +43,6 @@ Examples include (but are not limited to):
 
 ## Contact
 If you are subjected to unacceptable behaviour or observe that someone else is being subjected to unacceptable behaviour, please approach:
-* Flip van Spaendonck ([p.h.m.v.spaendonck@tue.nl](mailto:p.h.m.v.spaendonck@tue.nl)), or
-* Anna Stramaglia ([a.stramaglia@tue.nl](mailto:a.stramaglia@tue.nl)), or
+* Alexandre Madeira ([madeira@ua.pt](mailto:madeira@ua.pt)), or
+* Alexander Knapp ([alexander.knapp@uni-a.de](alexander.knapp@uni-a.de)), or
 * any other staff of the local organizing team or at the registration desk, who will provide assistance.
