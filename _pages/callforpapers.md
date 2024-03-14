@@ -62,6 +62,7 @@ properties
 - Component, object, multi-agent and self-adaptive systems
 - Real-time, hybrid, and cyber-physical systems
 - Intelligent systems and machine learning
+- Quantum systems
 - HCI, interactive systems, and human error analysis
 - Education
 
