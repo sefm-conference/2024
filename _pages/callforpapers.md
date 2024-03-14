@@ -80,17 +80,18 @@ All submissions must be original, unpublished, and not submitted concurrently fo
 
 Papers can be submitted through Easychair: [https://easychair.org/conferences/?conf=sefm2024](https://easychair.org/conferences/?conf=sefm2024).
 
-<!-- 
 ## Artifact Evaluation
 
-This edition of SEFM introduces an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is **optional for regular papers** and **mandatory for tool papers**. The artifacts will be judged by the Artifact Evaluation Committee (AEC). More details can be found on the [artifact page]({{ site.baseurl }}{~~~~% link _pages/artifacts.md %}).
- -->
+This edition of SEFM introduces an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is **optional for regular papers** and **mandatory for tool papers**. The artifacts will be judged by the Artifact Evaluation Committee (AEC).
+<--
+More details can be found on the [artifact page]({{ site.baseurl }}{~~~~% link _pages/artifacts.md %}).
+-->
 
-<!--
 ## Publication
 
 All accepted papers will appear in the proceedings of the conference that will
 be published as a volume in Springer's LNCS series. 
 
+<!--
 The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to special issues of the journal [Software and Systems Modeling](https://www.springer.com/journal/10270) (SoSyM).
- -->
+-->
