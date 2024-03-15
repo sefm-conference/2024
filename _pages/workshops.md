@@ -14,6 +14,11 @@ organised by
 Ricardo M. Czekster (Aston University, United Kingdom) and
 Paolo Milazzo (University of Pisa, Italy).
 
+- [ReacTS 2024](https://reacts2024.github.io/), **4-5 November**: *International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications*  
+organised by
+Raul Fervari (Universidad Nacional de Córdoba and CONICET, Argentina) and
+Manuel Martins (University of Aveiro, Portugal).
+
 - ...
 
 
