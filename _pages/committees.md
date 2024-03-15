@@ -10,39 +10,53 @@ order: 4
 
 ## Programme Committee
 
-tbd
-
-<!-- [Mario Bravetti](https://www.unibo.it/sitoweb/mario.bravetti/en), University of Bologna  
-[Julien Brunel](https://www.onera.fr/en/staff/julien-brunel), ONERA  
+[Luis S. Barbosa](https://www.di.uminho.pt/~lsb/about.html), University of Minho  
+[Mario Bravetti](https://www.unibo.it/sitoweb/mario.bravetti/en), University of Bologna  
 [Radu Calinescu](https://www-users.york.ac.uk/~rcc516/), University of York  
 [Taolue Chen](https://chentaolue.github.io/), Birkbeck, University of London  
 [Rance Cleaveland](https://www.cs.umd.edu/~rance/), University of Maryland  
-[Loek Cleophas](https://loekcleophas.github.io/), TU Eindhoven and Stellenbosch University  
 [Alcino Cunha](https://alcinocunha.github.io/), University of Minho  
-[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), Universidade NOVA de Lisboa (co-chair)  
-[Adrian Francalanza](https://staff.um.edu.mt/afra1/), University of Malta  
-[Hubert Garavel](https://convecs.inria.fr/people/Hubert.Garavel/), INRIA  
-[Silvia Ghilezan](http://imft.ftn.uns.ac.rs/silvia/Main), University of Novi Sad, Mathematical Institute SASA  
-[Mario Gleirscher](https://www.gleirscher.at/mg/), University of Bremen  
+[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), Universidade NOVA de Lisboa   
+[João Ferreira](https://joaoff.com) University of Lisbon  
+[Adrian Francalanza](https://staff.um.edu.mt/afra1/), University of Malta    
+[Hubert Garavel](https://convecs.inria.fr/people/Hubert.Garavel/), INRIA    
+[Mario Gleirscher](https://www.gleirscher.at/mg/), University of Bremen    
+[Marie-Christine Jakobs](https://www.sosy-lab.org/people/jakobs/), LMU Munich  
 [Christian Johansen](https://christian.johansenresearch.info/), Norwegian University of Science and Technology  
 [Daniela Kaufmann](https://danielakaufmann.at/), TU Wien  
-[Zhiming Liu](http://computer.swu.edu.cn/zhimingliu), Southwest University  
-[Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/), Delft University of Technology  
+[Alexander Knapp](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtsse/staff/), University of Augsburg (co-chair)  
+[Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/), Delft University of Technology    
+[Alexandre Madeira](https://sweet.ua.pt/madeira/), University of Aveiro (co-chair)  
+[Manuel A. Martins](https://sweet.ua.pt/martins/), University of Aveiro  
 [Marjan Mernik](https://lpm.feri.um.si/en/members/mernik/), University of Maribor  
 [Charles Morisset](https://morisset.gitlab.io/mysite/), Newcastle University  
 [Stephan Merz](https://members.loria.fr/Stephan.Merz/), Inria Nancy  
-[Rocco De Nicola](https://sysma.imtlucca.it/pages/rocco-denicola/), IMT - School for Advanced Studies Lucca  
-[Peter Ölveczky](https://olveczky.se/), University of Oslo  
-[Jovanka Pantovic](https://sites.google.com/view/jovanka-pantovic/), University of Novi Sad, Faculty of Technical Sciences  
+[Renato Neves](https://alfa.di.uminho.pt/~nevrenato/), University of Minho  
+[Rocco De Nicola](https://sysma.imtlucca.it/pages/rocco-denicola/), IMT - School for Advanced Studies Lucca    
+[Peter Ölveczky](https://olveczky.se/), University of Oslo    
+[Jovanka Pantovic](https://sites.google.com/view/jovanka-pantovic/), University of Novi Sad, Faculty of Technical Sciences    
+[Carlos Pombo](https://www.dc.uba.ar/~clpombo), University of Buenos Aires  
+[José Proença](https://jose.proenca.org), University of Porto  
 [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes  
 [Augusto Sampaio](https://www.cin.ufpe.br/~acas/), Federal university of Pernambuco  
-[Marjan Sirjani](https://marjansirjani.github.io/Marjan-Sirjani/), Malardalen University  
+[Marjan Sirjani](https://marjansirjani.github.io/Marjan-Sirjani/), Malardalen University    
 [Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/), University of Salzburg  
 [Pierre-Yves Schobbens](https://directory.unamur.be/staff/pyschobb), University of Namur  
+[Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), Peking University  
 [Bernardo Toninho](http://ctp.di.fct.unl.pt/~btoninho/), Universidade Nova de Lisboa and NOVA-LINCS  
-[Rolando Trujillo](https://rolandotr.bitbucket.io/), Universitat Rovira i Virgili (URV)  
-[Tim Willemse](https://www.win.tue.nl/~timw/), Eindhoven University of Technology (co-chair)  
- -->
+[Ionut Tutu](https://dblp.org/pid/74/9837.html), Romanian Academy  
+[Tim Willemse](https://www.win.tue.nl/~timw/), Eindhoven University of Technology  
+
+
+## Steering Committee
+[Radu Calinescu](https://www-users.cs.york.ac.uk/~raduc/), University of York, UK  
+[Antonio Cerone](https://nu.edu.kz/faculty/antonio-cerone), Nazarbayev University, Kazakhstan  
+[Rocco De Nicola](https://www.imtlucca.it/it/rocco.denicola), IMT - School for Advanced Studies Lucca, Italy  
+[Gwen Salaün](http://convecs.inria.fr/people/Gwen.Salaun/), University of Grenoble Alpes, France  
+[Marjan Sirjani](http://www.ru.is/faculty/marjan/), Malardalen University, Sweden  
+[Bernd-Holger Schlingloff](https://www.fokus.fraunhofer.de/usr/de_schlingloff), Fraunhofer FOKUS and Humboldt University of Berlin, Germany  
+[Ming Chai](https://faculty.bjtu.edu.cn/trans/8937.html), Beijing Jiaotong University, China
+
 
 <!--
 ## Artefact Evaluation Committee Chairs
