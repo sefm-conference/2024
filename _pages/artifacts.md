@@ -3,7 +3,7 @@ layout: page
 title: Artifacts
 permalink: /artifacts/
 order: 6
-published: false
+# published: false
 ---
 # Call for Artifacts
 Claims and (experimental) results described in a paper often originate from artifacts not present in the paper. Reproducibility of (experimental) results is crucial to foster an atmosphere of open, reusable, and trustworthy research. Furthermore, good artifacts enable future researchers to effectively build on and compare with previous work.
@@ -55,7 +55,14 @@ The abstract and the .pdf file of your paper must be submitted via EasyChair.
 
 If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chair prior to submission. 
 
-## Artifact Packaging Guidelines
+## Artifact Packaging Guidelines 
+We recommend to prepare your artifact in such a way that any computer science expert without dedicated expertise in your field can use your artifact, especially replicate your results. For example, keep the evaluation process simple, provide easy-to-use scripts and a detailed README document. Furthermore, the artifact and its documentation should be self-contained. In particular, the artifact should contain all the required files to replicate your results.
+
+The **.zip** file containing your artifact must consist of the following elements:
+* The **artifact**, i.e., data, software, libraries, scripts, etc. required to replicate the results of your paper. Please prepare a **Docker image** or a **Virtual Machine**. We recommend to use VirtualBox to save a VM image as an OVA file.
+* A **LICENSE** file that describes the license for your artifact. Your license must allow the artifact evaluation committee members to download and evaluate the artifact, e.g., download, use, execute, and modify the artifact for the purpose of artifact evaluation. Please refer to typical open-source licenses. Artifacts without an open-source license are also accepted, but a license type needs to be specified, allowing the committee to assess the artifact. For quick help about possible licenses, visit [https://choosealicense.com/](https://choosealicense.com/).
+* A **README** file that introduces the artifact to the user and guides the user through the replication of your results. See the section for README recommendations.
+If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chair prior to submission. 
 
 ### Checksum instructions
 We need the checksum to ensure the integrity of your artifact. You can generate the checksum using the following command-line tools. 
@@ -64,6 +71,24 @@ We need the checksum to ensure the integrity of your artifact. You can generate 
 - Windows: `CertUtil -hashfile <file> SHA256`
 - MacOS: `shasum -a 256 <file>`
 
+### README Recommendations
+The README file should introduce the artifact to the user, i.e., describe what the artifact does, and guide the user through the replication of your results. In addition, it should guide the user through the test phase evaluation and if needed any required installation or setup processes. Ideally, it should consist of the following sections.
+* **Summary**: brief description of the artifact goal, authors, reference to the paper, and indication on how to cite the artifact. We recommend to also describe the structure and content of your artifact.
+* **Hardware Requirements**: hardware requirements (RAM, number of cores, CPU frequency), which you considered to test your artifact. Your resource requirements should be modest and allow replication of results even on laptops.
+* **Proprietary Software or Data Requirements**: additional proprietary software or data that is not provided in the artifact but required to replicate your results
+* **Setup** describes the steps to set up your artifact for use. To simplify the reviewing process, we recommend to provide an installation script (if necessary).
+* **Test Instructions** document how to perform the test phase evaluation, e.g., provide instructions that allow rudimentary testing (i.e., in such a way that technical difficulties would pop up) in as little time as possible.
+* **Replication time** estimates the expected total runtime to replicate the results, e.g., to run the experiments.
+    * Please provide for each task/step of the replication (an estimate) how long it will take to perform it or how long it took for you and what exact machine(s) you used.
+* **Replication Instructions**: clear description how to repeat/replicate/reproduce the results presented in the paper. 
+    * Please document which claims or results of the paper can be replicated with the artifact and how (e.g., which experiment must be performed). Please also explain which claims and results cannot be replicated and why.
+    * Describe in detail how to replicate the results in the paper, especially describe the steps that need to be performed to replicate the results in the paper. To simplify the reviewing process, we recommend providing evaluation scripts (where applicable).
+* **Replication with Limited Resources**: For tasks or experiments that require a large amount of resources (i.e. more than 2 hours or 4 GB), the artifact should offer a possibility to replicate a subset of the results of the paper that can be reproduced in a reasonable amount of time e.g., within 2 hours and 4 GB on various hardware platforms including laptops and reasonable personal computers. In this case, please also include a script to replicate only a subset of the results. If this is not possible, please contact the artifact evaluation chair early, but no later than before submission.
+* **Examples of Usage** describe how to use your artifact in general accompanied by small examples.
+If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chair prior to submission. 
+
+### Publication of Artifacts
+To qualify for the artifacts available badge, the artifact must be made publicly and permanently available. We recommend to use services like e.g., [Zenodo](https://zenodo.org/) or [figshare](https://figshare.com/). In addition, the paper needs to reference to the artifact using its DOI. Therefore, we recommend to extend your paper with a data availability statement. We encourage all authors of artifacts to make their artifacts permanently available.
 
 ## Artifact Evaluation Process and Criteria
 We aim to assess the artifacts themselves and not the quality of the research linked to the artifact, which is assessed by the SEFM 2024 program committee. The goal of our review process is to be constructive and to improve the submitted artifacts. Only, if an artifact cannot be improved to achieve sufficient quality in the given time frame or it is inconsistent with the paper, it should be rejected.
