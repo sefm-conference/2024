@@ -6,8 +6,8 @@ permalink: /callforpapers/
 order: 2
 # published: false
 ---
-The 21st edition of the International Conference on Software Engineering and
-Formal Methods will be held between *6 and 8 November 2024*, with workshops taking place on 4 and 5 November 2024.
+The 22nd edition of the International Conference on Software Engineering and
+Formal Methods will be held between 6 and 8 November 2024, with workshops taking place on 4 and 5 November 2024.
 
 ## Important dates
 - Abstract submission: 7 June 2024 (AoE)
