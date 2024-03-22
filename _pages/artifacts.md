@@ -5,10 +5,10 @@ permalink: /artifacts/
 order: 6
 # published: false
 ---
-# Call for Artifacts
+<!--# Call for Artifacts-->
 Claims and (experimental) results described in a paper often originate from artifacts not present in the paper. Reproducibility of (experimental) results is crucial to foster an atmosphere of open, reusable, and trustworthy research. Furthermore, good artifacts enable future researchers to effectively build on and compare with previous work.
 
-Similar to last year, SEFM includes artifact evaluation, which is performed by a separate artifact evaluation committee (AEC). Artifact evaluation is **mandatory for tool papers** and **optional for regular papers**. The goals of artifact evaluation are to encourage authors to provide artifacts for replication and future use and to reward authors who create good artifacts. 
+Similar to last year, SEFM includes artifact evaluation, which is performed by a separate artifact evaluation committee (AEC). Artifact evaluation is **mandatory for tool papers** and **optional for regular papers**. The goals of artifact evaluation are to encourage authors to provide artifacts for replication and future use as well as to reward authors who create good artifacts. 
 
 Artifacts of interest include (but are not limited to):
 -	Software, Tools, or Frameworks
@@ -40,7 +40,7 @@ An artifact submission should consist of
 -	an **abstract** that
     *	summarizes the artifact and explains its relation to the paper,
     *	mentions where in the artifact it is documented how to perform the test phase and how to reproduce the results of the paper, 
-    * if applicable, provides a description of any **additional special requirements** beyond a VM or Docker image needed to properly run the artifact, e.g. cloud-computing resources, certain hardware,
+    * if applicable, provides a description of any **additional special requirements** beyond a VM or Docker image needed to properly run the artifact, e.g. cloud-computing resources, certain hardware, proprietary software or data,
     * includes an **URL** - we encourage you to provide a DOI - to a **.zip** file of your artifact containing 
         +	a **license** file that allows the artifact evaluation committee to evaluate the artifact,
         + a clear **documentation** how to perform the **test phase**, and
@@ -61,7 +61,7 @@ We recommend to prepare your artifact in such a way that any computer science ex
 The **.zip** file containing your artifact must consist of the following elements:
 * The **artifact**, i.e., data, software, libraries, scripts, etc. required to replicate the results of your paper. Please prepare a **Docker image** or a **Virtual Machine**. We recommend to use VirtualBox to save a VM image as an OVA file.
 * A **LICENSE** file that describes the license for your artifact. Your license must allow the artifact evaluation committee members to download and evaluate the artifact, e.g., download, use, execute, and modify the artifact for the purpose of artifact evaluation. Please refer to typical open-source licenses. Artifacts without an open-source license are also accepted, but a license type needs to be specified, allowing the committee to assess the artifact. For quick help about possible licenses, visit [https://choosealicense.com/](https://choosealicense.com/).
-* A **README** file that introduces the artifact to the user and guides the user through the replication of your results. See the section for README recommendations.
+* A **README** file that introduces the artifact to the user and guides the user through the replication of your results. Consider the section for [README recommendations](#readme-recommendations) for more details.
 If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chair prior to submission. 
 
 ### Checksum instructions
