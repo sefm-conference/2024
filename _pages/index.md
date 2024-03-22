@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <h2 class="secondH">Welcome to SEFM 2024</h2>
-The 21st edition of the International Conference on Software Engineering and
+The 22nd edition of the International Conference on Software Engineering and
 Formal Methods will be held between 4 and 8 November 2024.
 
 The conference aims to bring together researchers and practitioners from academia,
