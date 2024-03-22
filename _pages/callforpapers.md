@@ -12,6 +12,7 @@ Formal Methods will be held between *6 and 8 November 2024*, with workshops taki
 ## Important dates
 - Abstract submission: 7 June 2024 (AoE)
 - Paper submission: 14 June 2024 (AoE)
+- Artifact submission: 30 June 2024 (AOE)
 - Author notification: 15 August 2024
 - Workshops: 4-5 November 2024
 - Conference: 6-8 November 2024
@@ -82,7 +83,7 @@ Papers can be submitted through Easychair: [https://easychair.org/conferences/?c
 
 ## Artifact Evaluation
 
-Similar to last year, SEFM provides an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is **optional for regular papers** and **mandatory for tool papers**. The artifacts will be judged by the Artifact Evaluation Committee (AEC). More details can be found on the [artifact page]({{ site.baseurl }}{~~~~% link _pages/artifacts.md %}).
+Similar to last year, SEFM provides an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is **optional for regular papers** and **mandatory for tool papers**. The artifacts will be judged by the Artifact Evaluation Committee (AEC). More details can be found on the [artifact page]({{ site.baseurl }}{/artifact/})<!--[artifact page]({{ site.baseurl }}{~~~~% link _pages/artifacts.md %}).-->
 
 ## Publication
 
