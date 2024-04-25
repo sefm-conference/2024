@@ -51,7 +51,7 @@ An artifact submission should consist of
 
 Please consider the [Artifact Packaging Guidelines](#artifact-packaging-guidelines) for detailed information about the contents of the artifact.
 
-The abstract and the .pdf file of your paper must be submitted via EasyChair.
+The abstract and the .pdf file of your paper must be submitted via [EasyChair](https://easychair.org/my/conference?conf=sefm24) to the **SEFM'24 Artifact Evaluation** track.
 
 If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chair prior to submission. 
 
