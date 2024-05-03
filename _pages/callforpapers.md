@@ -90,6 +90,6 @@ Similar to last year, SEFM provides an artifact evaluation (AE). An artifact con
 All accepted papers will appear in the proceedings of the conference that will
 be published as a volume in Springer's LNCS series. 
 
-<!--
+
 The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to special issues of the journal [Software and Systems Modeling](https://www.springer.com/journal/10270) (SoSyM).
--->
+
