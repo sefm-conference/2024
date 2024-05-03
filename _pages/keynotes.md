@@ -6,11 +6,11 @@ order: 3
 published: true
 ---
 
-## [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
+- [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
 
-## [Paula Herber](https://www.uni-muenster.de/EmbSys/team/herber/), Universitat Munster, DE
+- [Paula Herber](https://www.uni-muenster.de/EmbSys/team/herber/), Universitat Munster, DE
 
-## [Aleks Kisinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
+- [Aleks Kisinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
 
 
 
@@ -22,7 +22,7 @@ published: true
 <!--
 ## [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/), TU Delft
 
-<img src="{{ site.baseurl }}{% link assets/burcu.jpg %}" class="imageSpeaker" align="right"/>
+<img src="{{ site.baseurl }}{% link assets/images/UA1.png %}" class="imageSpeaker" align="right"/>
 
 **Randomized Testing of Distributed Systems**
 
@@ -32,7 +32,7 @@ Random testing is a practical way of searching for bugs in large distributed sys
 
 ## [Reiner Hähnle](https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_30784.en.jsp), TU Darmstadt
 
-<img src="{{ site.baseurl }}{% link assets/reiner.jpg %}" class="imageSpeaker" align="right"/>
+<img src="{{ site.baseurl }}{% link assets/images/UA1.png %}" class="imageSpeaker" align="right"/>
 
 **Context-aware Trace Contracts**
 
@@ -42,7 +42,7 @@ Joint work with: Eduard Kamburjan (U Oslo), Marco Scaletta (TU Darmstadt)
 
 ## [Mira Mezini](https://www.stg.tu-darmstadt.de/main_stg/staff_stg/mira_mezini_1.en.jsp), TU Darmstadt
 
-<img src="{{ site.baseurl }}{% link assets/mira.jpg %}" class="imageSpeaker" align="right"/>
+<img src="{{ site.baseurl }}{% link assets/images/UA1.png %}" class="imageSpeaker" align="right"/>
 
 **Safe and Secure Programming Abstractions for Decentralized Software**
 
