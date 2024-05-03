@@ -1,11 +1,25 @@
 ---
-layout: page
+layout: page_plain
 title: Keynotes
 permalink: /keynotes/
 order: 3
-published: false
+published: true
 ---
 
+## [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
+
+## [Paula Herber](https://www.uni-muenster.de/EmbSys/team/herber/), Universitat Munster, DE
+
+## [Aleks Kisinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
+
+
+
+
+
+
+
+
+<!--
 ## [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/), TU Delft
 
 <img src="{{ site.baseurl }}{% link assets/burcu.jpg %}" class="imageSpeaker" align="right"/>
@@ -35,3 +49,4 @@ Joint work with: Eduard Kamburjan (U Oslo), Marco Scaletta (TU Darmstadt)
 Today’s computing infrastructure is massively distributed across geo-replicated clouds in the back-end and millions of increasingly powerful devices in the front-end. Applications running on this massively distributed infrastructure are different from traditional distributed applications – they often interact with their surroundingsand their execution flow is not determined by these unpredictable interactions. While today’s software architecture is centralized with data and computations mostly hosted in back-end clouds and front-end devices merely interfacing to the world, there is a call for decentralization, motivated by requirements for privacy, latency, availability (even for deployments with intermittent connectivity in the front-end), and made possible by increased resources in the front-end. But decentralization brings back long-standing challenges of distributed software on the table of application developers, which are amplified due to global distribution, the quest for decentralization, and the interactive nature of applications. At the same time, our programming methods are not up to these challenges, leaving complexity on the shoulders of application developers to manage. 
 
 In this talk, I will present ongoing work on the REScala project, which aims to close this gap. REScala – a library-based extension of the Scala language - advances the state of scientific knowledge in the area of programming foundations for distributed interactive learning applications. It makes decentralization and interactivity first-class programming principles. Computations running on individual nodes of the computing infrastructure have their local view on data and execution, but these views are composable by-design with guaranteed safety and security properties. Moreover, the views have native time-changing capabilities, whichenables them to jointly evolve in time and space.
+-->
