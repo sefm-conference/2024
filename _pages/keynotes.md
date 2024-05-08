@@ -6,14 +6,21 @@ order: 3
 published: true
 ---
 
-- [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
+## [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
 
-- [Paula Herber](https://www.uni-muenster.de/EmbSys/team/herber/), Universitat Munster, DE
+TBD
 
-- [Aleks Kisinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
+## [Paula Herber](https://www.uni-muenster.de/EmbSys/team/herber/), Universitat Munster, DE
 
+TBD
 
+## [Aleks Kissinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
 
+<img src="{{ site.baseurl }}{% link assets/images/people/kissinger.jpg %}" class="imageSpeaker" align="right"/>
+
+**Picturing Quantum Software**
+
+Quantum software is the code that runs on a quantum computer. I'll give a brief overview of what this means, as well as a trifecta of important challenges in this area: efficient compilation, verification, and classical simulation of quantum programs. Then, I'll discuss some of the ways we've been attacking these problems in recent years, using a number of techniques based on graph rewriting and the ZX calculus.
 
 
 
