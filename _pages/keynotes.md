@@ -8,11 +8,19 @@ published: true
 
 ## [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
 
+<img src="{{ site.baseurl }}{% link assets/images/people/barbosa.jpg %}" class="imageSpeaker" align="right"/>
+
+<p style="min-height: 170px;">
 TBD
+</p>
 
 ## [Paula Herber](https://www.uni-muenster.de/EmbSys/team/herber/), Universitat Munster, DE
 
-TBD
+<img src="{{ site.baseurl }}{% link assets/images/people/herber.png %}" class="imageSpeaker" align="right"/>
+
+<p style="min-height: 170px;">
+	TBD
+</p>
 
 ## [Aleks Kissinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
 
