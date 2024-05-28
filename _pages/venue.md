@@ -38,7 +38,22 @@ To see timetables and buy tickets, go to
 [here](https://www.cp.pt/passageiros/en).
 
 
+## Excursion and Social Event
+
+<center>
+    <img src="../assets/images/uvas.jpeg" width="32%" height="100%">  <img src="../assets/images/pipas.jpeg" width="32%" height="100%"> <img src="../assets/images/garrafas.jpeg" width="32%" height="100%">
+    <p></p>
+ </center>
+  
+Banquet and excursion: the SEFM'24 excursion will include a visit to Bairrada, a wine zone (30 minutes from Aveiro). We will visit a typical wine house, the -- [_Quinta das Bágeiras_](https://www.quintadasbageiras.pt/indexEN.html). This will include a tour to the wine caves, guided by a producer, that will introduce the classic process of _Espumante da Bairrada_, the traditional Bairrada sparkling wine. Moreover, the SEFM'24 banquet will be served inside the caves, in an unique atmosphere to taste the local wines and a core dish of the Portuguese gastronomy: the _Leitão à Bairrada_. Naturally, vegetarian alternatives and non alcoholic drinks will be available.
+
 <!--
+
+1400 × 932 
+2560
+
+2560 × 1920
+
 
 ## Travelling to Aveiro
 
