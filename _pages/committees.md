@@ -47,6 +47,19 @@ order: 4
 [Ionut Tutu](https://dblp.org/pid/74/9837.html), Romanian Academy  
 [Tim Willemse](https://www.win.tue.nl/~timw/), Eindhoven University of Technology  
 
+## Artifact Evaluation Committee Chair
+[Marie-Christine Jakobs](https://www.sosy-lab.org/people/jakobs/), LMU Munich
+
+## Artifact Evaluation Committee
+
+Alessio Coltellacci, INRIA, France  
+Joabe Jesus, University of Pernambuco, Brazil  
+[Eduard Kamburjan](https://www.mn.uio.no/ifi/english/people/aca/eduard/index.html), University of Oslo, Norway  
+[Bjørnar Luteberget](https://www.sintef.no/alle-ansatte/ansatt/bjornar.luteberget/), SINTEF Digital, Norway  
+[Agustín Eloy Martinez Suñé](https://lafhis.dc.uba.ar/~aemartinez), Universidad de Buenos Aires, Argentina  
+[James Ortiz](https://researchportal.unamur.be/en/persons/jortizve), University of Nmaur, Belgium  
+[Cedric Richter](https://uol.de/informatik/formale-methoden/team/cedric-richter), Carl von Ossietzky University of Oldenburg, Germany  
+[Martin Tappler](https://mtappler.wordpress.com/), TU Wien, Austria  
 
 ## Steering Committee
 [Radu Calinescu](https://www-users.cs.york.ac.uk/~raduc/), University of York, UK  
