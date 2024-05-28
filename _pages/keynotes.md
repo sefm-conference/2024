@@ -8,11 +8,17 @@ published: true
 
 ## [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
 
-<img src="{{ site.baseurl }}{% link assets/images/people/barbosa.jpg %}" class="imageSpeaker" align="right"/>
+<img src="{{ site.baseurl }}{% link assets/images/people/barbosa.png %}" class="imageSpeaker" align="right"/>
+
+ 
 
 <p style="min-height: 170px;">
-TBD
+<strong>Paraconsistency for the working software engineer</strong>
+
+<br/>TBD
+
 </p>
+
 
 ## [Paula Herber](https://www.uni-muenster.de/EmbSys/team/herber/), Universitat Munster, DE
 
@@ -35,6 +41,11 @@ Quantum software is the code that runs on a quantum computer. I'll give a brief 
 
 
 <!--
+	962 × 1039 
+	512 x 553	
+
+	512 × 982
+
 ## [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/), TU Delft
 
 <img src="{{ site.baseurl }}{% link assets/images/UA1.png %}" class="imageSpeaker" align="right"/>
