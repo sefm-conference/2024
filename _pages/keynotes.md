@@ -24,9 +24,19 @@ published: true
 
 <img src="{{ site.baseurl }}{% link assets/images/people/herber.png %}" class="imageSpeaker" align="right"/>
 
-<p style="min-height: 170px;">
+<!-- <p style="min-height: 170px;">
 	TBD
 </p>
+ -->
+
+**Formal Verification of Cyber-physical Systems using Domain-specific Abstractions**
+
+Cyber-physical systems have become ubiquitous in our daily lives, and their complexity continually evolves to unprecedented levels. In addition to their heterogeneity and interaction with a physical environment, we see a tremendous increase in the use of learning to make autonomous decisions in dynamic environments. These developments pose significant challenges for ensuring the safety and reliability of cyber-physical systems. Formal methods have the potential to guarantee crucial safety properties under all circumstances, but are incredibly expensive and severely suffer from scalability issues. In this talk, I will summarize some of our recent efforts towards reusable specification and more scalable verification of cyber-physical systems using domain-specific abstractions. 
+
+<!--
+Bio: Paula Herber is a full professor and head of the Embedded Systems group at the Computer Science Department at the University of Münster, Germany, and a part-time full professor at the University of Twente in the Formal Methods and Tools (FMT) group in the Netherlands. She has received her Ph.D. from TU Berlin in 2010, and worked as a postdoc at the International Computer Science Institute (ICSI) in Berkeley, California, as a substitute professor at the University of Potsdam, and as a postdoc and independent research group leader at TU Berlin. Her main research interests are quality assurance for embedded systems, test automation, and formal methods. She is best known for her contributions to the formalization of industrially used system design languages such as SystemC and Simulink, and highly interested in new techniques to increase the applicability of formal methods for embedded and cyber-physical systems.
+-->
+
 
 ## [Aleks Kissinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
 
