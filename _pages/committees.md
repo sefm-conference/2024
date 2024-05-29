@@ -111,5 +111,6 @@ Tiago Soares, NOVA School of Science and Technology, Portugal
 ## Website
 [José Proença](https://jose.proenca.org/), University of Porto, Portugal
 
-Edit the content of this page [here](https://github.com/sefm-conference/2024/blob/main/_pages/committees.md).
+<!-- Edit the content of this page [here](https://github.com/sefm-conference/2024/blob/main/_pages/committees.md).
 {: .editNote}
+ -->
