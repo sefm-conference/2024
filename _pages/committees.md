@@ -10,11 +10,16 @@ order: 4
 
 ## Programme Committee
 
+<div class="remark">
+With great sadness and a feeling of a heartbreaking premature loss, the SEFM community learned that <strong><a href="https://www.cs.umd.edu/~rance">Prof. Rance Cleaveland</a> passed away on the 27th March</strong>. A remarkable computer scientist, with outstanding contributions in developing theoretical and applied formal methods, a friend of this conference, in which 2024 PC he accepted to serve, a mentor for many, and an excellent person, Rance will be missed very dearly.
+</div>
+
+
 [Luis S. Barbosa](https://www.di.uminho.pt/~lsb/about.html), University of Minho  
 [Mario Bravetti](https://www.unibo.it/sitoweb/mario.bravetti/en), University of Bologna  
 [Radu Calinescu](https://www-users.york.ac.uk/~rcc516/), University of York  
 [Taolue Chen](https://chentaolue.github.io/), Birkbeck, University of London  
-[Rance Cleaveland](https://www.cs.umd.edu/~rance/), University of Maryland  
+<!-- [Rance Cleaveland](https://www.cs.umd.edu/~rance/), University of Maryland   -->
 [Alcino Cunha](https://alcinocunha.github.io/), University of Minho  
 [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), Universidade NOVA de Lisboa   
 [João Ferreira](https://joaoff.com) University of Lisbon  
@@ -46,6 +51,7 @@ order: 4
 [Bernardo Toninho](http://ctp.di.fct.unl.pt/~btoninho/), Universidade Nova de Lisboa and NOVA-LINCS  
 [Ionut Tutu](https://dblp.org/pid/74/9837.html), Romanian Academy  
 [Tim Willemse](https://www.win.tue.nl/~timw/), Eindhoven University of Technology  
+
 
 ## Artifact Evaluation Committee Chair
 [Marie-Christine Jakobs](https://www.sosy-lab.org/people/jakobs/), LMU Munich
@@ -105,5 +111,5 @@ Tiago Soares, NOVA School of Science and Technology, Portugal
 ## Website
 [José Proença](https://jose.proenca.org/), University of Porto, Portugal
 
-<!--  Edit the content of this page [here](https://github.com/sefm-conference/2024/blob/main/_pages/committees.md).
-{: .editNote} -->
+Edit the content of this page [here](https://github.com/sefm-conference/2024/blob/main/_pages/committees.md).
+{: .editNote}
