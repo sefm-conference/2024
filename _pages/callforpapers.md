@@ -10,8 +10,8 @@ The 22nd edition of the International Conference on Software Engineering and
 Formal Methods will be held between 6 and 8 November 2024, with workshops taking place on 4 and 5 November 2024.
 
 ## Important dates
-- Abstract submission: <del> 7 June 2024 </del>  June 21 (AoE) -- Extended!
-- Paper submission: <del> 14 June 2024 </del>  June 28 (AoE) -- Extended!
+- Abstract submission: ~~7 June 2024~~  __21 June 2024__ (AoE) -- Extended!
+- Paper submission: ~~14 June 2024~~  __28 June 2024__ (AoE) -- Extended!
 - Artifact submission: 30 June 2024 (AOE)
 - Author notification: 15 August 2024
 - Workshops: 4-5 November 2024
