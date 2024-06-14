@@ -30,7 +30,6 @@ government, to advance the state of the art in formal methods, to facilitate the
 uptake in the software industry, and to encourage their integration within practical
 software engineering methods and tools.
 
-
 The topics of interest include, but are not limited to, the following aspects of
 software engineering and formal methods.
 
@@ -74,6 +73,7 @@ properties
 We solicit two categories of papers:
 
 - **Regular papers** describing original research results, case studies, or surveys, should not exceed *16 pages* (excluding bibliography of at most two pages).
+- **Short papers** describing original research results or case studies, maybe in an incubation phase, should not exceed *8 pages* (exculuding bibliography of at most one page).
 - **Tool papers** that describe an operational tool and its contributions should not exceed *8 pages*.
 
 Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gp/computer-science/lncs).
