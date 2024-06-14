@@ -4,7 +4,7 @@ title: Doctoral Symposium
 subtitle:
 permalink: /doctoral/
 order: 2
-# published: false
+published: false
 ---
 The doctoral symposium aims to provide an engaging and informal environment where PhD students can present and discuss their ongoing work, meet other students working in software engineering and formal methods, and receive feedback and advice from experienced researchers. In addition to short talks followed by open group discussions, the doctoral symposium will also provide opportunities for PhD students to meet senior academics in smaller groups to informally discuss research strategies, career aspects, or any other topic of interest.
 
