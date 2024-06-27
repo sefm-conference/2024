@@ -47,11 +47,11 @@ An artifact submission should consist of
         + a **documentation how to reproduce the results** of the paper,
     * the **SHA256 checksum** of the .zip file, and
     *	the **paper submission ID** of your submitted paper.
--	a **.pdf** file of the submitted paper. For the availability badge, the paper must reference the DOI of your artifact.
+-	a **.pdf** file of the submitted paper. For the availability badge, the paper must reference the DOI of your artifact. Note that you do not need to provide the .pdf file with your artifact submission, but we will get the .pdf file from your paper submission.
 
 Please consider the [Artifact Packaging Guidelines](#artifact-packaging-guidelines) for detailed information about the contents of the artifact.
 
-The abstract and the .pdf file of your paper must be submitted via [EasyChair](https://easychair.org/my/conference?conf=sefm24) to the **SEFM'24 Artifact Evaluation** track.
+The abstract ~~and the .pdf file of your paper~~ must be submitted via [EasyChair](https://easychair.org/my/conference?conf=sefm24) to the **SEFM'24 Artifact Evaluation** track. The .pdf file of your submitted paper will be taken from your EasyChair submission in paper track.
 
 If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chair prior to submission. 
 
