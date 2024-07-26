@@ -13,7 +13,7 @@ Formal Methods will be held between 6 and 8 November 2024, with workshops taking
 - Abstract submission: ~~7 June 2024~~  __28 June 2024__ (AoE) -- Extended!
 - Paper submission: ~~21 June 2024~~  __28 June 2024__ (AoE) -- Extended!
 - Artifact submission: 30 June 2024 (AOE)
-- Author notification: --15 August 2024-- __22 August 2024__
+- Author notification: ~~15 August 2024~~ __22 August 2024__
 - Workshops: 4-5 November 2024
 - Conference: 6-8 November 2024
 
