@@ -60,9 +60,9 @@ With great sadness and a feeling of a heartbreaking premature loss, the SEFM com
 
 [Zsófia	Ádám](https://www.mit.bme.hu/eng/general/phd/adamzsofi), Budapest University of Technology and Economics, Hungary
 Alessio Coltellacci, INRIA, France  
-[Simon Dierl](https://aqua.cs.tu-dortmund.de/team/researchers/simon-dierl/), TU Dortmund, Germany
+[Simon Dierl](https://aqua.cs.tu-dortmund.de/team/researchers/simon-dierl/), TU Dortmund, Germany  
 [Jan Haltermann](https://uol.de/informatik/formale-methoden/team/jan-haltermann), Carl von Ossietzky University of Oldenburg, Germany  
-[Marek	Jankola](https://www.sosy-lab.org/people/jankola/), LMU Munich, Germany
+[Marek	Jankola](https://www.sosy-lab.org/people/jankola/), LMU Munich, Germany  
 Joabe Jesus, University of Pernambuco, Brazil  
 [Eduard Kamburjan](https://www.mn.uio.no/ifi/english/people/aca/eduard/index.html), University of Oslo, Norway  
 [Bjørnar Luteberget](https://www.sintef.no/alle-ansatte/ansatt/bjornar.luteberget/), SINTEF Digital, Norway  
