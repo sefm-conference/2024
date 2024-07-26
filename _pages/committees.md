@@ -58,7 +58,7 @@ With great sadness and a feeling of a heartbreaking premature loss, the SEFM com
 
 ## Artifact Evaluation Committee
 
-[Zsófia	Ádám](https://www.mit.bme.hu/eng/general/phd/adamzsofi), Budapest University of Technology and Economics, Hungary
+[Zsófia	Ádám](https://www.mit.bme.hu/eng/general/phd/adamzsofi), Budapest University of Technology and Economics, Hungary  
 Alessio Coltellacci, INRIA, France  
 [Simon Dierl](https://aqua.cs.tu-dortmund.de/team/researchers/simon-dierl/), TU Dortmund, Germany  
 [Jan Haltermann](https://uol.de/informatik/formale-methoden/team/jan-haltermann), Carl von Ossietzky University of Oldenburg, Germany  
