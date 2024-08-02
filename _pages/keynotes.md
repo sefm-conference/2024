@@ -6,7 +6,7 @@ order: 3
 published: true
 ---
 
-## [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), University of Minho, PT
+## [Luís Soares Barbosa](https://www.di.uminho.pt/~lsb/), INESC TEC and University of Minho, PT
 
 <img src="{{ site.baseurl }}{% link assets/images/people/barbosa.png %}" class="imageSpeaker" align="right"/>
 
