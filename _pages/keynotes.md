@@ -21,7 +21,7 @@ published: true
 
 **Paraconsistency for the working software engineer** 
 
-Modelling complex information systems often entails the need for dealing with scenarios of inconsistency in which several requirements either reinforce or contradict each other. This lecture summarises recent joint work with Juliana Cunha, Alexandre Madeira and Ana Cruz on  a variant of transition systems endowed with positive and negative accessibility relations, and a metric space over the lattice of truth values. Such structures are called \emph{paraconsistent} transition systems, the qualifier stressing a connection to paraconsistent logic, a logic taking inconsistent information as potentially informative.  A coalgebraic perspective on this family of structures is also discussed.
+Modelling complex information systems often entails the need for dealing with scenarios of inconsistency in which several requirements either reinforce or contradict each other. This lecture summarises recent joint work with Juliana Cunha, Alexandre Madeira and Ana Cruz on  a variant of transition systems endowed with positive and negative accessibility relations, and a metric space over the lattice of truth values. Such structures are called *paraconsistent* transition systems, the qualifier stressing a connection to paraconsistent logic, a logic taking inconsistent information as potentially informative.  A coalgebraic perspective on this family of structures is also discussed.
 
 
 
