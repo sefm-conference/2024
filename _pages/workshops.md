@@ -23,7 +23,7 @@ Manuel Martins (University of Aveiro, Portugal).
 organised by
 Renato Neves (University of Minho, Portugal).
 
-- [CIFMA 2024](https://cifma.github.io), **4 or 5 November**: *6th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications*  
+- [CIFMA 2024](https://cifma.github.io), **5 November**: *6th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications*  
 organised by
 Reinhard Kahle (NOVA University Lisbon, Portugal) and
 Graham Pluck (Chulalongkorn University, Thailand).
