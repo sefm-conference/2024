@@ -13,8 +13,8 @@ td > img { max-width: 48px } td:last-child { min-width: max-content }
 
 The following papers have been accepted at SEFM 2024. The indicated artifact badges follow the [EAPLS badging scheme](https://eapls.org/pages/artifact_badges/).
 
-| authors                 | title     | badge |
-| ----------------------- | --------- | ----- |
+| Authors                 | Title     | Badges |
+| ----------------------- | --------- | ------ |
 | Kangfeng Ye, Roberto Metere, Poonam Yadav | User-Guided Verification of Security Protocols via Sound Animation |  |
 | Margherita Renieri, Letterio Galletta | A Policy Framework for Regulating External Calls in Smart Contracts |  |
 | Alessandro Cimatti, Thomas Møller Grosen, Kim Guldstrand Larsen, Stefano Tonetta, Martin Zimmermann | Exploiting Assumptions for Effective Monitoring of Real-Time Properties under Partial Observability | |
