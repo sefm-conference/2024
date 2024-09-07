@@ -9,7 +9,7 @@ published: true
 The following workshops will be co-located with SEFM 2024 on 4-5 November of 2024 (not yet finalised). 
 
 
-- [DataMod 2024](https://datamod2024.github.io/), **4-5 November**: *12th International Symposium - From Data to Models and Back*  
+- [DataMod 2024](https://datamod2024.github.io/), **4 & 5 November**: *12th International Symposium - From Data to Models and Back*  
 organised by
 Ricardo M. Czekster (Aston University, United Kingdom) and
 Paolo Milazzo (University of Pisa, Italy).
