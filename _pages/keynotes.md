@@ -44,9 +44,9 @@ Bio: Paula Herber is a full professor and head of the Embedded Systems group at 
 -->
 
 
-## [Aleks Kissinger](https://www.cs.ox.ac.uk/people/aleks.kissinger/), University of Oxford, UK
+## [John van de Wetering](https://vdwetering.name), University of Amsterdam, the Netherlands
 
-<img src="{{ site.baseurl }}{% link assets/images/people/kissinger.jpg %}" class="imageSpeaker" align="right"/>
+<img src="{{ site.baseurl }}{% link assets/images/people/vandewetering.jpg %}" class="imageSpeaker" align="right"/>
 
 **Picturing Quantum Software**
 
