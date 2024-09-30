@@ -25,7 +25,7 @@ To register for SEFM and satellite workshops use the **registration form at [htt
 
 Payment can only be done by **bank transfer**. More details will be presented at the end of the registration form.
 
-For every paper accepted at SEFM, **at least one author** needs to have a registration. Prices include the welcome reception and social event (see below).
+For every paper accepted at SEFM, **at least one author** needs to have a registration. Prices for conference registration include luches, the welcome reception and social event (see below). Moreover, For every paper accepted at a SEFM workshop, **at least one author** needs to have an workshop registration. Prices for workshop registration include lunche and the workshop dinner.
 
 Attendees of DataMod and ReacTS are required to buy a ticket for two workshop days.
 
@@ -41,5 +41,5 @@ A ticket for the main conference includes admittance to the welcome reception (6
 Every attendee of SEFM is expected to follow the [SEFM Code of Conduct]({{ site.baseurl }}{% link _pages/codeofconduct.md %}).
 
 ## Invitation letters
-Invitation letters can be issued after the registration fee has been paid in full. After registration, you may contact [Alexandre Madeira](mailto:madeira@ua.pt?subject=[SEFM 2024] Request for an invitation letter) to request an official invitation letter. Please mention _"SEFM 2024"_ in the subject of your email.
+Invitation letters can be issued after the registration fee has been paid in full. After registration, you may contact the local organization to sefm24@ua.pt. Request for an invitation letter) to request an official invitation letter. Please mention _"SEFM 2024"_ in the subject of your email.
 
