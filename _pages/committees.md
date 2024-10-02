@@ -80,6 +80,16 @@ Joabe Jesus, University of Pernambuco, Brazil
 [Bernd-Holger Schlingloff](https://www.fokus.fraunhofer.de/usr/de_schlingloff), Fraunhofer FOKUS and Humboldt University of Berlin, Germany  
 [Ming Chai](https://faculty.bjtu.edu.cn/trans/8937.html), Beijing Jiaotong University, China
 
+## Local Organisation
+[Juliana Cunha](), University of Aveiro, Portugal   
+[Alexandre Madeira](https://sweet.ua.pt/madeira/), University of Aveiro, Portugal  
+[Manuel Martins](https://sweet.ua.pt/martins/), University of Aveiro, Portugal  
+[Renato Neves](https://alfa.di.uminho.pt/~nevrenato/), University of Minho, Portugal  
+[José Proença](https://jose.proenca.org), University of Porto, Portugal
+
+
+
+
 
 <!--
 ## Artefact Evaluation Committee Chairs
