@@ -14,10 +14,10 @@ To register for SEFM and satellite workshops use the **registration form at [htt
 |                                          | early (until 15 Oct) | late (after 16 Oct) |
 | ---------------------------------------- | -------------------- | ------------------- |
 | Conference                               |  €500               |  €600              |
-| Conference + one workshop day            |  €600               |  €700              |
+| Conference + one workshop day            |  €620               |  €720              |
 | Conference + two workshop days           |  €650               |  €750              |
 | Conference (student)                     |  €400               |  €500              |
-| Conference (student) + one workshop day  |  €500               |  €600              |
+| Conference (student) + one workshop day  |  €520               |  €620              |
 | Conference (student) + two workshop days |  €550               |  €650              |
 | one workshop day                         |  €120               |  €150              |
 | two workshop days                        |  €150               |  €170              |
