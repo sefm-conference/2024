@@ -9,9 +9,7 @@ hide: false
 
 Here you can find information about registration for the conference as well as the registration fees.
 
-To register for SEFM and satellite workshops use the **registration form will be available again next monday. Sorry for unconvenience**
-
-<!-- **registration form at  [https://forms.gle/bsASUAJuHDxFZoZ47](https://forms.gle/bsASUAJuHDxFZoZ47)**. -->
+ **registration form at  [https://forms.gle/bsASUAJuHDxFZoZ47](https://forms.gle/bsASUAJuHDxFZoZ47)**. 
 
 |                                          | early (until 15 Oct) | late (after 16 Oct) |
 | ---------------------------------------- | -------------------- | ------------------- |
