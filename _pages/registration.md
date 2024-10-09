@@ -41,5 +41,5 @@ A ticket for the main conference includes admittance to the welcome reception (6
 Every attendee of SEFM is expected to follow the [SEFM Code of Conduct]({{ site.baseurl }}{% link _pages/codeofconduct.md %}).
 
 ## Invitation letters
-Invitation letters can be issued after the registration fee has been paid in full. After registration, you may contact the local organization to sefm24@ua.pt. Request for an invitation letter) to request an official invitation letter. Please mention _"SEFM 2024"_ in the subject of your email.
+Invitation letters can be issued after the registration fee has been paid in full. After registration, you may contact the local organization to sefm2024@ua.pt. Request for an invitation letter) to request an official invitation letter. Please mention _"SEFM 2024"_ in the subject of your email.
 
