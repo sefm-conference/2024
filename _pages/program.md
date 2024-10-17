@@ -18,7 +18,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 
 
   <tr>
-    <td>9:00-10:00</td>
+    <td>9:30-10:30</td>
     <!-- <td>Invited Talk</td> -->
     <td><strong>Keynote: Formal Verification of Cyber-Physical Systems using Domain-specific Abstractions</strong>
       <br /><em>Paula Herber, Julius Adelt and Philip Tasche</em>
@@ -28,14 +28,14 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 
 
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:30-11:00</td>
     <td>Coffee break</td>
   </tr>
 
 
 
   <tr>
-    <td>10:30-12:00</td>
+    <td>11:00-12:30</td>
     <td>
       <p><strong>Real-time</strong></p>
       <!-- 12 -->
@@ -57,20 +57,20 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   </tr>
 
   <tr>
-    <td>12:00-13:30</td>
+    <td>12:30-14:00</td>
     <td>Lunch</td>
   </tr>
 
 
 
   <tr>
-    <td>13:30-15:00</td>
+    <td>14:00-15:30</td>
     <td>
       <p><strong>Security & Trust I</strong></p>
       <!-- 7 -->
-      <p><em>User-Guided Verification of Security Protocols via Sound Animation
+      <p><em>Model-Checking the Implementation of Consent
         </em><br />
-        Kangfeng Ye, Roberto Metere and Poonam Yadav
+        Raúl Pardo and Daniel Le Métayer
       </p>
       <!-- 84, Artefact, Demo -->
       <p><em>Formal Analysis of Multi-Factor Authentication Schemes in Digital Identity Cards
@@ -86,14 +86,14 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   </tr>
 
   <tr>
-    <td>15:00-15:30</td>
+    <td>15:30-16:00</td>
     <td>Coffee break</td>
   </tr>
 
 
 
   <tr>
-    <td>15:30-17:00</td>
+    <td>16:00-17:30</td>
     <td>
       <p><strong>Testing & Learning</strong></p>
       <!-- 44 -->
@@ -127,7 +127,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 
 
   <tr>
-    <td>9:00-10:00</td>
+    <td>9:30-10:30</td>
     <!-- <td>Invited Talk</td> -->
     <td><strong>Keynote: Paraconsistency for the Working Software Engineer</strong>
       <br /><em>Luís Barbosa</em>
@@ -137,14 +137,14 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 
 
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:30-11:00</td>
     <td>Coffee Break</td>
   </tr>
 
 
 
   <tr>
-    <td>10:30-12:00</td>
+    <td>11:00-12:30</td>
     <td>
       <p><strong>Contracts & Invariants</strong></p>
       <!-- 25 -->
@@ -166,20 +166,20 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   </tr>
 
   <tr>
-    <td>12:00-13:30</td>
+    <td>12:30-14:00</td>
     <td>Lunch</td>
   </tr>
 
 
 
   <tr>
-    <td>13:30-14:30</td>
+    <td>14:00-15:00</td>
     <td>
       <p><strong>Security & Trust II</strong></p>
       <!-- 36, Artefact, Demo -->
-      <p><em>Model-Checking the Implementation of Consent
+      <p><em>User-Guided Verification of Security Protocols via Sound Animation
         </em><br />
-        Raúl Pardo and Daniel Le Métayer
+        Kangfeng Ye, Roberto Metere and Poonam Yadav
       </p>
       <!-- 50, Artefact -->
       <p><em>Verified Configuration and Deployment of Layered Attestation Managers
@@ -190,7 +190,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   </tr>
 
   <tr>
-    <td>14:30-15:30</td>
+    <td>15:00-16:00</td>
     <td>Coffee break and Demos</td>
   </tr>
 
@@ -216,7 +216,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 
 
   <tr>
-    <td>9:00-10:00</td>
+    <td>9:30-10:30</td>
     <!-- <td>Invited Talk</td> -->
     <td><strong>Keynote: Picturing Quantum Software</strong>
       <br /><em>John van de Wetering</em>
@@ -226,14 +226,14 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 
 
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:30-11:00</td>
     <td>Coffee break</td>
   </tr>
 
 
 
   <tr>
-    <td>10:30-12:00</td>
+    <td>11:00-12:30</td>
     <td>
       <p><strong>Smart Contracts</strong></p>
       <!-- 9 -->
@@ -255,14 +255,14 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   </tr>
 
   <tr>
-    <td>12:00-13:30</td>
+    <td>12:30-14:00</td>
     <td>Lunch</td>
   </tr>
 
 
 
   <tr>
-    <td>13:30-15:00</td>
+    <td>14:00-15:30</td>
     <td>
       <p><strong>Semantics and Verification</strong></p>
       <!-- 58, Artefact -->
@@ -284,14 +284,14 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   </tr>
 
   <tr>
-    <td>15:00-15:30</td>
+    <td>15:30-16:00</td>
     <td>Coffee break</td>
   </tr>
 
 
 
   <tr>
-    <td>15:30-17:00</td>
+    <td>16:00-17:30</td>
     <td>
       <p><strong>Specification</strong></p>
       <!-- 69 -->
