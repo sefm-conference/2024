@@ -29,6 +29,7 @@ integration within practical software engineering methods and tools.
 Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io).
 
 ## Sponsors
+{: .secondH}
 
 {:style="text-align:center;"}
 [![CIDMA logo]({{ site.baseurl }}{% link assets/cidma_logo.jpeg %} "logo")](https://cidma.ua.pt){:target="blank"}
