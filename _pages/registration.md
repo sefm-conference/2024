@@ -11,7 +11,7 @@ Here you can find information about registration for the conference as well as t
 
  **registration form at  [https://forms.gle/bsASUAJuHDxFZoZ47](https://forms.gle/bsASUAJuHDxFZoZ47)**. 
 
-|                                          | early (until 15 Oct) | late (after 16 Oct) |
+|                                          | early (until 15 Oct)<sup>*</sup> | late (after 16 Oct)<sup>*</sup> |
 | ---------------------------------------- | -------------------- | ------------------- |
 | Conference                               |  €500               |  €600              |
 | Conference + one workshop day            |  €620               |  €720              |
@@ -22,6 +22,8 @@ Here you can find information about registration for the conference as well as t
 | one workshop day                         |  €120               |  €150              |
 | two workshop days                        |  €150               |  €170              |
 
+
+<em style="color: gray;font-size-adjust: 0.5;"><sup>*</sup>early registration just for workshops is extended until __22 Oct__, inclusive.</em>
 
 Payment can only be done by **bank transfer**. More details will be presented at the end of the registration form.
 
