@@ -32,6 +32,7 @@ Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io)
 {: .secondH}
 
 {:style="text-align:center;"}
+[![DMAT logo]({{ site.baseurl }}{% link assets/dmat-logo.png %} "logo")](https://mat.ua.pt){:target="blank"}
 [![CIDMA logo]({{ site.baseurl }}{% link assets/cidma_logo.jpeg %} "logo")](https://cidma.ua.pt){:target="blank"}
 [![logo]({{ site.baseurl }}{% link assets/FCT_logo.png %} "logoSmall")](https://www.fct.pt/){:target="blank"}
 
