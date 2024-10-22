@@ -19,7 +19,7 @@ organised by
 Raul Fervari (Universidad Nacional de Córdoba and CONICET, Argentina) and
 Manuel Martins (University of Aveiro, Portugal).
 
-- [Ibex 2024](https://lmf.di.uminho.pt/Ibex/workshop.html), **4-5 November**: *International Workshop on Quantitative Principles of Cyber-Physical Systems*  
+- [Ibex 2024](https://lmf.di.uminho.pt/Ibex/workshop.html), **4 November**: *International Workshop on Quantitative Principles of Cyber-Physical Systems*  
 organised by
 Renato Neves (University of Minho, Portugal).
 
