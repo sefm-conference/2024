@@ -82,6 +82,7 @@ Joabe Jesus, University of Pernambuco, Brazil
 
 ## Local Organisation
 [Juliana Cunha](), University of Aveiro, Portugal   
+[Antonio Iglesias](), University of Aveiro, Portugal   
 [Alexandre Madeira](https://sweet.ua.pt/madeira/), University of Aveiro, Portugal  
 [Manuel Martins](https://sweet.ua.pt/martins/), University of Aveiro, Portugal  
 [Renato Neves](https://alfa.di.uminho.pt/~nevrenato/), University of Minho, Portugal  
