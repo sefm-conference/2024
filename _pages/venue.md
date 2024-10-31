@@ -37,6 +37,25 @@ If you travel by plane, the most convenient airport is Francisco Sá Carneiro Ai
 To see timetables and buy tickets, go to
 [here](https://www.cp.pt/passageiros/en).
 
+## Informations about the conference and workshops venue
+
+With exception of the social event, all the activities of Sefm and the coalocated workshops will occure at the University of Aveiro Campos
+
+<center>
+    <img src="../assets/images/UAMap.pdf" width="32%" height="32%"> 
+    <p></p>
+ </center>
+
+
+- Workshops Check-In: Opens at 8:45 in front of Sousa Pinto Room, Mathematics Department (Building 11).
+
+- Main Conference Check-In: Opens at 8:45 in front of the "Actos Académicos" Room, Rectory Building (Building 25).
+
+- "Porto de Honra" Reception (Wednesday, 18:30): To be held in the Library of the University (Building 17).
+
+- Lunches & Workshop Dinner (Monday, 20:00): Served at "Restaurante da Universidade," located on the 1st floor of Building F.
+
+
 
 ## Excursion and Social Event
 
