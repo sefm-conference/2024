@@ -6,27 +6,31 @@ order: 7
 published: true
 ---
 
-The following workshops will be co-located with SEFM 2024 on 4-5 November of 2024 (not yet finalised). 
+The following workshops will be co-located with SEFM 2024 on 4-5 November of 2024. 
 
 
 - [DataMod 2024](https://datamod2024.github.io/), **4 & 5 November**: *12th International Symposium - From Data to Models and Back*  
 organised by
 Ricardo M. Czekster (Aston University, United Kingdom) and
 Paolo Milazzo (University of Pisa, Italy).
+**Room 11.2.21, Mathematics Department (building 11)**
 
 - [ReacTS 2024](https://reacts2024.github.io/), **4-5 November**: *International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications*  
 organised by
 Raul Fervari (Universidad Nacional de Córdoba and CONICET, Argentina) and
 Manuel Martins (University of Aveiro, Portugal).
+**Room Sousa Pinto, 11.2.6, Mathematics Department (building 11)**
 
 - [Ibex 2024](https://lmf.di.uminho.pt/Ibex/workshop.html), **4 November**: *International Workshop on Quantitative Principles of Cyber-Physical Systems*  
 organised by
 Renato Neves (University of Minho, Portugal).
+**Room Sousa Pinto, 11.2.6, Mathematics Department (building 11)**
 
 - [CIFMA 2024](https://cifma.github.io), **5 November**: *6th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications*  
 organised by
 Reinhard Kahle (NOVA University Lisbon, Portugal) and
 Graham Pluck (Chulalongkorn University, Thailand).
+**Auditório José Graça, 22.3.1,  Department of Civil Engineering (building 22)**
 
 <p>&nbsp;</p>
 
