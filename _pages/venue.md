@@ -39,10 +39,10 @@ To see timetables and buy tickets, go to
 
 ## Informations about the conference and workshops venue
 
-With exception of the social event, all the activities of SEFM and the co-located workshops will take place at the University of Aveiro Campus. A more detailed map can be found [here](../assets/images/UAMap.pdf).
+With exception of the social event, all the activities of SEFM and the co-located workshops will take place at the University of Aveiro Campus. A more detailed map with instructions can be found [here](../assets/images/UAMap.pdf).
 
 <center>
-    <img src="../assets/images/UAMap.png" width="82%" height="82%"> 
+    <img src="../assets/images/UAMap.png" width="45%" height="45%"> 
     <p></p>
  </center>
 
