@@ -30,7 +30,7 @@ Renato Neves (University of Minho, Portugal).
 organised by
 Reinhard Kahle (NOVA University Lisbon, Portugal) and
 Graham Pluck (Chulalongkorn University, Thailand).
-**Auditório José Graça, 22.3.1, Civil Engineering Department (building 22)**
+**Auditório José Graça, 22.3.1, Mechanics Department (building 22)**
 
 <p>&nbsp;</p>
 
