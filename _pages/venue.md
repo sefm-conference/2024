@@ -47,7 +47,7 @@ With exception of the social event, all the activities of SEFM and the co-locate
  </center>
 
 
-- Workshops - Check-In: Opens at 8:45 in front of Sousa Pinto Room, Mathematics Department (Building 11); to be held here (DataMod, ReacTS, and Ibex) and in Auditório José Graça, Civil Engineering Department (building 22, CIFMA).
+- Workshops - Check-In: Opens at 8:45 in front of Sousa Pinto Room, Mathematics Department (Building 11); to be held here (DataMod, ReacTS, and Ibex) and in Auditório José Graça, Mechanics Department (building 22, CIFMA).
 
 - Main Conference - Check-In: Opens at 8:45 in front of the "Actos Académicos" Room, Rectory Building (Building 25).
 
