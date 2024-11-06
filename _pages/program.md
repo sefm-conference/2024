@@ -37,7 +37,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>11:00-12:30</td>
     <td>
-      <p><strong>Real-time</strong></p>
+      <p><strong>Real-time (Session Chair: A. Knapp)</strong></p>
       <!-- 12 -->
       <p><em>Exploiting Assumptions for Effective Monitoring of Real-Time Properties under Partial Observability
         </em><br />
@@ -66,7 +66,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>14:00-15:30</td>
     <td>
-      <p><strong>Security & Trust I</strong></p>
+      <p><strong>Security & Trust I  (Session Chair: S. Merz)</strong></p>
       <!-- 7 -->
       <p><em>Model-Checking the Implementation of Consent
         </em><br />
@@ -95,7 +95,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>16:00-17:30</td>
     <td>
-      <p><strong>Testing & Learning</strong></p>
+      <p><strong>Testing & Learning  (Session Chair: A. Cerone)</strong></p>
       <!-- 44 -->
       <p><em>GrammarForge: Learning Program Input Grammars for Fuzz Testing
         </em><br />
