@@ -146,7 +146,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>11:00-12:30</td>
     <td>
-      <p><strong>Contracts & Invariants</strong></p>
+      <p><strong>Contracts & Invariants  (Session Chair: O. Kouchnarenko)</strong></p>
       <!-- 25 -->
       <p><em>Validating Traces of Distributed Programs Against TLA+ Specifications
         </em><br />
@@ -175,7 +175,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>14:00-15:00</td>
     <td>
-      <p><strong>Security & Trust II</strong></p>
+      <p><strong>Security & Trust II (Session Chair: R. Pardo)</strong></p>
       <!-- 36, Artefact, Demo -->
       <p><em>User-Guided Verification of Security Protocols via Sound Animation
         </em><br />
@@ -235,7 +235,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>11:00-12:30</td>
     <td>
-      <p><strong>Smart Contracts</strong></p>
+      <p><strong>Smart Contracts(Session Chair: L. S. Barbosa)</strong></p>
       <!-- 9 -->
       <p><em>A Policy Framework for Regulating External Calls in Smart Contracts
         </em><br />
@@ -264,7 +264,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>14:00-15:30</td>
     <td>
-      <p><strong>Semantics and Verification</strong></p>
+      <p><strong>Semantics and Verification (Session Chair: A.Knapp) </strong></p>
       <!-- 58, Artefact -->
       <p><em>An Operational Semantics for Yul
         </em><br />
@@ -293,7 +293,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>16:00-17:30</td>
     <td>
-      <p><strong>Specification</strong></p>
+      <p><strong>Specification (Session Chair: A. Madeira)</strong></p>
       <!-- 69 -->
       <p><em>Towards Quantum Multiparty Session Types
         </em><br />
