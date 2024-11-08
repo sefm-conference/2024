@@ -53,10 +53,10 @@ With great sadness and a feeling of a heartbreaking premature loss, the SEFM com
 [Tim Willemse](https://www.win.tue.nl/~timw/), Eindhoven University of Technology  
 
 
-## Artifact Evaluation Committee Chair
+## Artefact Evaluation Committee Chair
 [Marie-Christine Jakobs](https://www.sosy-lab.org/people/jakobs/), LMU Munich, Germany
 
-## Artifact Evaluation Committee
+## Artefact Evaluation Committee
 
 [Zsófia	Ádám](https://www.mit.bme.hu/eng/general/phd/adamzsofi), Budapest University of Technology and Economics, Hungary  
 Alessio Coltellacci, INRIA, France  
