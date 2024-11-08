@@ -45,3 +45,7 @@ Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io)
 [![NWO logo]({{ site.baseurl }}{% link assets/nwo.jpg %})](https://nwo.nl/)
 [![EAPLS logo]({{ site.baseurl }}{% link assets/EAPLS_logo.jpg %})](https://eapls.org/)
  -->
+
+ [![DMAT logo]({{ site.baseurl }}{% link assets/images/grupo1.jpeg %} "logo")](){:target="blank"}
+
+
