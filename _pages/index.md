@@ -47,6 +47,8 @@ Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io)
 [![EAPLS logo]({{ site.baseurl }}{% link assets/EAPLS_logo.jpg %})](https://eapls.org/)
  -->
 
- <!-- [![DMAT logo]({{ site.baseurl }}{% link assets/images/grupo1.jpeg %} "logo")](){:target="blank"} -->
+ <!--
+[![DMAT logo]({{ site.baseurl }}{% link assets/images/grupo1.jpeg %} "logo")](){:target="blank"}
+-->
 
 
