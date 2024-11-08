@@ -235,7 +235,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>11:00-12:30</td>
     <td>
-      <p><strong>Smart Contracts(Session Chair: L. S. Barbosa)</strong></p>
+      <p><strong>Smart Contracts(Session Chair: A.Knapp)</strong></p>
       <!-- 9 -->
       <p><em>A Policy Framework for Regulating External Calls in Smart Contracts
         </em><br />
@@ -264,7 +264,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
   <tr>
     <td>14:00-15:30</td>
     <td>
-      <p><strong>Semantics and Verification (Session Chair: A.Knapp) </strong></p>
+      <p><strong>Semantics and Verification (Session Chair: Ivan Lanese) </strong></p>
       <!-- 58, Artefact -->
       <p><em>An Operational Semantics for Yul
         </em><br />
