@@ -35,6 +35,7 @@ Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io)
 [![DMAT logo]({{ site.baseurl }}{% link assets/dmat-logo.png %} "logo")](https://mat.ua.pt){:target="blank"}
 [![CIDMA logo]({{ site.baseurl }}{% link assets/cidma_logo.jpeg %} "logo")](https://cidma.ua.pt){:target="blank"}
 [![logo]({{ site.baseurl }}{% link assets/FCT_logo.png %} "logoSmall")](https://www.fct.pt/){:target="blank"}
+[![logo]({{ site.baseurl }}{% link assets/images/springer-logo-black-and-white.png %} "logoSmall")](){:target="blank"}
 
 {:class="thanks"}
 <small>This conference is supported by CIDMA through the Portuguese Foundation for Science and Technology (FCT), reference UIDB/04106/2020.
