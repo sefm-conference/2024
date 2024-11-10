@@ -6,7 +6,7 @@ permalink: /
 
 <h2 class="secondH">* News *</h2>
 
-The SEFM 2024 best paper award is won by the paper
+The **SEFM 2024 best paper award** is won by the paper
 
 Matteo Paier, Roberto Van Eeden, and Marino Miculan for their contribution **Formal Analysis
 of Multi-Factor Authentication Schemes in Digital Identity Cards**
