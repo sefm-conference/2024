@@ -3,6 +3,20 @@ layout: home
 permalink: /
 ---
 
+
+<h2 class="secondH">* News *</h2>
+
+The SEFM 2024 best paper award is won by the paper
+
+Matteo Paier, Roberto Van Eeden, and Marino Miculan for their contribution "Formal Analysis
+of Multi-Factor Authentication Schemes in Digital Identity Cards
+
+
+Congratulations to these authors!
+
+
+
+
 <h2 class="secondH">Welcome to SEFM 2024</h2>
 The 22nd edition of the International Conference on Software Engineering and
 Formal Methods will be held between 4 and 8 November 2024.
